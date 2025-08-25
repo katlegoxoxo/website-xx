@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.5, type: 'spring' }}
         >
           <img 
-            src="public/images/giphy.gif" 
+            src="/images/giphy.gif" 
             alt="Katlego Makete" 
             className="rounded-lg w-full h-80 object-cover"
           />
